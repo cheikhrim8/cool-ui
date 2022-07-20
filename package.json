@@ -1,5 +1,8 @@
 {
-  "name": "cool-ui",
+  "name": "@cheikhrim8/cool-ui",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/cheikhrim8"
+  },
   "version": "1.0.0",
   "description": "Cool ui based on ui lib components",
   "scripts": {
